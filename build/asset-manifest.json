@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeGirl0511/User-Directory-static/css/main.16f2466d.chunk.css",
+    "main.js": "/CodeGirl0511/User-Directory-static/js/main.e6ab790b.chunk.js",
+    "main.js.map": "/CodeGirl0511/User-Directory-static/js/main.e6ab790b.chunk.js.map",
+    "runtime-main.js": "/CodeGirl0511/User-Directory-static/js/runtime-main.7000cf24.js",
+    "runtime-main.js.map": "/CodeGirl0511/User-Directory-static/js/runtime-main.7000cf24.js.map",
+    "static/js/2.b00bdaa7.chunk.js": "/CodeGirl0511/User-Directory-static/js/2.b00bdaa7.chunk.js",
+    "static/js/2.b00bdaa7.chunk.js.map": "/CodeGirl0511/User-Directory-static/js/2.b00bdaa7.chunk.js.map",
+    "index.html": "/CodeGirl0511/User-Directory-index.html",
+    "precache-manifest.034d8d2d142d1ccbec118ada77ff67aa.js": "/CodeGirl0511/User-Directory-precache-manifest.034d8d2d142d1ccbec118ada77ff67aa.js",
+    "service-worker.js": "/CodeGirl0511/User-Directory-service-worker.js",
+    "static/css/main.16f2466d.chunk.css.map": "/CodeGirl0511/User-Directory-static/css/main.16f2466d.chunk.css.map",
+    "static/js/2.b00bdaa7.chunk.js.LICENSE.txt": "/CodeGirl0511/User-Directory-static/js/2.b00bdaa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7000cf24.js",
+    "static/js/2.b00bdaa7.chunk.js",
+    "static/css/main.16f2466d.chunk.css",
+    "static/js/main.e6ab790b.chunk.js"
+  ]
+}
